@@ -21,9 +21,16 @@ const Typografy = () => {
             <p className='line-through'>Merhaba</p>
             <p className='uppercase'>Merhaba</p>
             <p className='lowercase'>Merhaba</p>
+            <p className='text-red-400'>Merhaba</p>
+            <p className='text-red-900'>Merhaba</p>
+            <p className='text-green-900'>Merhaba</p>
+            <p className='text-[#1E0342] font-bold'>Merhaba</p>
+            <p className='text-[rgb(154,200,205)] font-bold'>Merhaba</p>
+            <p className='bg-slate-500'>Merhaba</p>
+            <p className='bg-[#E1F7F5]'>Merhaba</p>
             
             
-                    </div>
+        </div>
     )
 }
 
